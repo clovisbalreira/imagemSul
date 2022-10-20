@@ -132,6 +132,7 @@ footer{
 
 footer p {
     font-size: 2em;
+    padding: 20px;
 }
 
 
@@ -202,5 +203,9 @@ footer div a img{
     }
     section#mapa div address p.endereco::after{
         content: " - ";
+    }
+
+    footer p {
+        font-size: 1.5em;
     }
 }
